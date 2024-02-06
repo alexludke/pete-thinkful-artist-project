@@ -18,10 +18,10 @@ h3 {
   font-family: "Playfair Display", Times, serif;
   text-align: center;
 }
-a:link {
+nav a:link {
   color: #d62828;
 }
-a:hover {
+nav a:hover {
   color: #f77f00;
 }
 nav {
