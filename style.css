@@ -27,7 +27,10 @@ nav a:hover {
 nav {
   text-align: center;
 }
-/*Tried to change color of anchor tags with both anchor element and nav element but it would not work  */
+
+nav a{
+  padding: 20px;
+}
 
 article {
   padding: 50px 0;
